@@ -20,22 +20,8 @@
               "icon": "lucide-file",
               "title": "Meine Welt"
             }
-          },
-          {
-            "id": "fccdc5f53361f988",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (obsidian_askpass.sh)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fccdc5f53361f988",
+  "active": "bb586a8965f1a129",
   "lastOpenFiles": [
     "Ein Tag im Leben von Zwillingseltern.md",
     "Kleines Gehirn.md",
