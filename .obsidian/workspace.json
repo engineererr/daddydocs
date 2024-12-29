@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "e3a6e2d7fd398053",
+    "type": "split",
+    "children": [
+      {
+        "id": "55e9a72a8d5abd28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb586a8965f1a129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meine Welt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meine Welt"
+            }
+          },
+          {
+            "id": "fccdc5f53361f988",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (obsidian_askpass.sh)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f97e075c244a550",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb0780655ca7fbc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5534510005e07633",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1bccb6c10eecdf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "175a852b0a870b2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a93f85100adadf50",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d87a5b6b1a0d4e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11fae79080cfc66e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ein Tag im Leben von Zwillingseltern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ein Tag im Leben von Zwillingseltern"
+            }
+          },
+          {
+            "id": "f54ad2e2f3bdcc3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ein Tag im Leben von Zwillingseltern.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ein Tag im Leben von Zwillingseltern"
+            }
+          },
+          {
+            "id": "ae98437792e00453",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14135e1fafb4bb2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ein Tag im Leben von Zwillingseltern.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ein Tag im Leben von Zwillingseltern"
+            }
+          },
+          {
+            "id": "dc83c9ab12396d90",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fccdc5f53361f988",
+  "lastOpenFiles": [
+    "Ein Tag im Leben von Zwillingseltern.md",
+    "Kleines Gehirn.md",
+    "Buch über das Kinderkriegen.md",
+    "Kapitelstruktur.md",
+    "Meine Welt.md",
+    "Kurztexte.md",
+    "Woche 21 - 12.12.24.md",
+    "Anekdoten.md",
+    "Welcome.md",
+    "create a link.md",
+    "Kleinere Ideen.md"
+  ]
+}

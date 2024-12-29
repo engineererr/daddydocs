@@ -1,0 +1,3 @@
+Die Kinder spiegeln. Sind wir ruhig, sind sie es auch. Sind wir wütend, schlafen sie später ein. Aber wütend zu werden ist ganz normal. Nur zeigen sollten wir es nicht. Weder als Emotionen noch als Handlungen. Mir fällt das regelmässig schwer. In mir steigt Wut auf. Und ich wippe das Kind zu stark. Wenn die Kinder an mir Spiegeln, dann ist mein Spiegel ganz sicher ungeschliffen.
+
+Mit dem Wägeli spazieren gehen ist körperlich weniger anstrengend, dafür mental umsomehr. Denn im Wägeli ist die Chance gross dass ein Kinde zu weinen beginnt. In der Tragi passiert das kaum. Dafür trägt man für eine Stunde 12kg extra mit sich herum.
