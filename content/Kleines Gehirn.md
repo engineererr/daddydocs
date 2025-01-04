@@ -1,0 +1,15 @@
+- Mango gegeben
+- Munter daran genuckelt
+- Mango bisschen besser in die Hand geben wollen
+- Runtergefallen
+- weinen mit tränen, schluchzen (Weinen Stufenmodell und Weinen an sich einführen)
+- Zum Glück wieder erholt. aber nicht so ganz
+- Nochmals verloren, jetzt war der Laden unten
+- IMPOSSIBLE zum Beruhigen, wir haben aufgehört, rumlaufen, Hände waschen, Dampf ablassen
+
+- Wie ich dachte, dass nur 3 Jährige sich nicht beherrschen können, wenn man ihnen erklärt, und sie nicht verstehen können. Und dass nur sie genaue Vorstellungen davon haben, wie etwas sein sollte - wie ein Apfel, der nicht geschnitten sein soll.
+- Aber unsere Kleinsten, die können ja noch weniger als das. Weniger als akzeptieren, dass der Apfel schon in SChnitze geschnitten ist.
+- Wie kann man sich das vorstellen?
+- Wenn die Mango nicht mehr im Sichtfeld ist, dann ist sie weg, forever.
+- Wie will man das verkraften, wenn man nicht versteht woher die Mango kommt, dass man eine neue kaufen kann, mit Geld, dass eigentlich nur noch auf dem Computer der Bank besteht.
+- test
