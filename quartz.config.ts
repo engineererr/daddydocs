@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "de-DE",
-    baseUrl: "engineererr.github.io/daddydocs/",
+    baseUrl: "www.daddydocs.ch",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
