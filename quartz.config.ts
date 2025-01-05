@@ -9,7 +9,6 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🧔‍♂️Daddydocs",
-    pageTitleSuffix: "Vom Kinderkriegen",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
