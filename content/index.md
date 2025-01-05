@@ -3,7 +3,10 @@ title: Home
 draft: false
 tags:
 ---
-The rest of your content lives here. You can use **Markdown** here :)Willkommen zu meinen Daddy Docs 🧔‍♂️
+Yesterday: <% tp.date.yesterday("YYYY-MM-DD") %>
+Tomorrow: <% tp.date.tomorrow("YYYY-MM-DD") %>
+
+Willkommen zu meinen Daddy Docs 🧔‍♂️
 
 Ich teile hier meine Abenteuer als Vater von Zwillingen. Meine Hochs und Tiefs. Anekdoten. Witziges. Gedanken.
 
