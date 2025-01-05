@@ -1,4 +1,9 @@
-Willkommen zu meinen Daddy Docs 🧔‍♂️
+---
+title: Home
+draft: false
+tags:
+---
+The rest of your content lives here. You can use **Markdown** here :)Willkommen zu meinen Daddy Docs 🧔‍♂️
 
 Ich teile hier meine Abenteuer als Vater von Zwillingen. Meine Hochs und Tiefs. Anekdoten. Witziges. Gedanken.
 
