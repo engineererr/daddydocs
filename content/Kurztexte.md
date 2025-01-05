@@ -1,7 +1,5 @@
 # Hingabe
-Kinder zu haben ist keine Aufopferung, es ist Hingabe. 
 
-Wir investieren in die psychische Gesundheit der Kinder wenn wir sie nicht schreien lassen. Geborgene Kinder können einfacher loslassen. Sie wissen nämlich, wo ihr sicherer Hafen ist. Und das für so zarte Geschöpfe sein zu dürfen ist das grösste.
 
 # Grenzen
 Manchmal bringen mich die kleinen Geschöpfe aber sehr wohl an meine Grenzen. Es ist nicht einfach Liebe zu geben und vermeintlich Unzufriedenheit zurück zu bekommen. Immer wieder muss ich zu mir sagen: "Sie erleben ein Drama, sie machen kein Drama".

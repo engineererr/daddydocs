@@ -1,10 +1,17 @@
+---
+title: <% tp.file.title %>
+draft: true
+tags:
+  - Kurztext
+---
 - Mango gegeben
 - Munter daran genuckelt
 - Mango bisschen besser in die Hand geben wollen
 - Runtergefallen
 - weinen mit tränen, schluchzen (Weinen Stufenmodell und Weinen an sich einführen)
 - Zum Glück wieder erholt. aber nicht so ganz
-- Nochmals verloren, jetzt war der Laden unten
+- Nochmals verloren, jetzt war de 
+The rest of your content lives here. You can use **Markdown** here :)r Laden unten
 - IMPOSSIBLE zum Beruhigen, wir haben aufgehört, rumlaufen, Hände waschen, Dampf ablassen
 
 - Wie ich dachte, dass nur 3 Jährige sich nicht beherrschen können, wenn man ihnen erklärt, und sie nicht verstehen können. Und dass nur sie genaue Vorstellungen davon haben, wie etwas sein sollte - wie ein Apfel, der nicht geschnitten sein soll.

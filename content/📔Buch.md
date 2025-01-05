@@ -1,3 +1,4 @@
+Falls ich mal ein Büchlein verfassen würde, oder mehr Struktur in die Daddy Docs bringen möchte, wäre dies die Kapitelstruktur (Work in Progress ✌️)
 [[Meine Welt]]
 - Wer bin ich
 - Wer sind wir
